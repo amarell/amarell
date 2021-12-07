@@ -6,11 +6,11 @@ My name is Amar.
 
 <h1 align='center'><i>Stats</i></h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=amarell&theme=tokyonight&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=amarell&theme=radical&count_private=true&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarell&hide=html&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarell&hide=html&theme=radical" />
 </p>
 
 
