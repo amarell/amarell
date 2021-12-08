@@ -2,7 +2,7 @@
 <p align='center'>
 My name is Amar.
 </p>
-<p align='center'>I'm currently a student at International Burch University and mostly focused on web-development.</p>
+<p align='center'>I'm currently a student at International Burch University and I'm mostly focused on web-development.</p>
 
 <h1 align='center'><i>Stats</i></h1>
 <p align="center">
