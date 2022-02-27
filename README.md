@@ -10,7 +10,7 @@ My name is Amar.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarell&hide=html&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarell&theme=radical" />
 </p>
 
 
