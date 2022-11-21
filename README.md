@@ -22,6 +22,7 @@ My name is <a href="https://amarell-dev.vercel.app/">Amar</a>
 <h3><i>Databases that I use</i></h3>
 
  - MySQL
+ - PostgreSQL
  - MongoDB
  - Firebase 
 
