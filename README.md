@@ -12,12 +12,14 @@ My name is <a href="https://amarell-dev.vercel.app/">Amar</a>
 - Java
 - PHP
 - C/C++
+- Dart
 
 <h3><i>Frontend frameworks that I use</i></h3>
 
 
 - React.js
 - Angular
+- Flutter
 
 <h3><i>Databases that I use</i></h3>
 
